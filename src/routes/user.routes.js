@@ -1,5 +1,6 @@
 import {Router} from "express";
-import {loginUser, 
+import {
+    loginUser, 
     logoutUser, 
     registerUser,
     refreshAccessToken,
